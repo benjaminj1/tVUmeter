@@ -1,0 +1,11 @@
+# cmkr
+build*/
+cmake-build*/
+CMakerLists.txt
+CMakeLists.txt.user
+
+# macOS specific
+.DS_Store
+
+.vscode/
+.idea/
